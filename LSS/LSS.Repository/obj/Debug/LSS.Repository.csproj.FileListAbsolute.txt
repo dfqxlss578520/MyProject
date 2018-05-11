@@ -1,0 +1,6 @@
+D:\MyData\Project\MyProject\LSS\LSS.Repository\bin\Debug\LSS.Repository.dll
+D:\MyData\Project\MyProject\LSS\LSS.Repository\bin\Debug\LSS.Repository.pdb
+D:\MyData\Project\MyProject\LSS\LSS.Repository\obj\Debug\LSS.Repository.csprojResolveAssemblyReference.cache
+D:\MyData\Project\MyProject\LSS\LSS.Repository\obj\Debug\LSS.Repository.csproj.CoreCompileInputs.cache
+D:\MyData\Project\MyProject\LSS\LSS.Repository\obj\Debug\LSS.Repository.dll
+D:\MyData\Project\MyProject\LSS\LSS.Repository\obj\Debug\LSS.Repository.pdb
